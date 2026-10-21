@@ -1,0 +1,6 @@
+{
+  "name": "CREMS - Clean Room Environmental Monitoring System",
+  "description": "Pharmaceutical cleanroom environmental monitoring system for monitoring Temperature, Humidity, Pressure, CO₂, PM2.5, and PM10 across cleanroom suites with active alerting, sensor health diagnostics, and corrective action workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
